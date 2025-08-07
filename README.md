@@ -30,7 +30,7 @@ The results are based on the three questions above
 ![Image 3](Images/6.png)
 ![Image 4](Images/7.png)
 3. Runtime of a successful studio
-![Image 1](../OneDrive/Documents/Images/9.png)
+![Image 1](Images/9.png)
 
 ## Conclusions
 Based on the results above I can confidently reccomend Microsoft to try a combination of the following genres:
