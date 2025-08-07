@@ -20,7 +20,7 @@ I looked for questions that spoke to the business challenge in order to examine 
 ## Results
 The results are based on the three questions above
 1. Most successful genres
-![Image 1](../OneDrive/Documents/Images/1.png)
+![Image 1](Images/1.png)
 ![Image 2](../OneDrive/Documents/Images/2.png)
 ![Image 3](../OneDrive/Documents/Images/3.png)
 
