@@ -21,7 +21,7 @@ I looked for questions that spoke to the business challenge in order to examine 
 The results are based on the three questions above
 1. Most successful genres
 ![Image 1](Images/1.png)
-![Image 2](../OneDrive/Documents/Images/2.png)
+![Image 2](Images/2.png)
 ![Image 3](../OneDrive/Documents/Images/3.png)
 
 2. Most succesful studios
