@@ -1,6 +1,6 @@
 
 # Microsoft Film Analysis
-![Film](../OneDrive/Documents/download.jpeg)
+![Film](Images/download.jpeg)
 ## Project Overview
 Microsoft is exploring the possibility of entering the film industry by launching a new movie studio. This project uses data visualization to analyze existing trends in the film market—such as genre performance, budget ranges, and revenue patterns—to uncover what makes a movie successful at the box office.
 ## Business Problem
