@@ -27,7 +27,7 @@ The results are based on the three questions above
 2. Most succesful studios
 ![Image 1](Images/4.png)
 ![Image 2](Images/5.png)
-![Image 3](../OneDrive/Documents/Images/6.png)
+![Image 3](Images/6.png)
 ![Image 4](../OneDrive/Documents/Images/7.png)
 3. Runtime of a successful studio
 ![Image 1](../OneDrive/Documents/Images/9.png)
